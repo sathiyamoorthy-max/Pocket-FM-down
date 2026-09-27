@@ -40,7 +40,7 @@ else:
 # --- Environment Variables ---
 API_ID = 4402984
 API_HASH = "aa95b6e3675cbda608ea311be9258d9b"
-BOT_TOKEN = "8918721301:8633858088:AAH48E3Li_FqXKzq_4cFfByWxUaZMNwWSgI"
+BOT_TOKEN = "8633858088:AAH48E3Li_FqXKzq_4cFfByWxUaZMNwWSgI"
 
 ALLOWED_EXTENSIONS = {'.mp3', '.m4a', '.mp4', '.ogg', '.flac'}
 
